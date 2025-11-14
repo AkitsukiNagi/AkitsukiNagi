@@ -1,5 +1,4 @@
 - 👋 Oh hi! I’m 秋月ナギ Nagi.
 - 👀 I’m interested in coding and watching Vtubers.
 - 🌱 I’m currently learning GO
-- 📫 You can contact me with my [Discord](https://discordapp.com/users/1168774257241759849)
 - 😄 I'm a human/fox
